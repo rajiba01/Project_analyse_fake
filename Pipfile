@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+django = "<4.0,>=3.2"
+djangorestframework = "<4.0,>=3.12"
+psycopg2-binary = "<3.0,>=2.9"
+django-cors-headers = "<4.0,>=3.10"
+python-dotenv = "<1.0,>=0.19"
+
+[dev-packages]
+
+[requires]
+python_version = "3.13"

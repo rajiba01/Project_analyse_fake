@@ -1,0 +1,11 @@
+{
+  "folders": [
+    { "path": "." },
+    { "path": "backend" }
+  ],
+  "settings": {
+    "python.defaultInterpreterPath": ".venv\\Scripts\\python.exe",
+    "python.testing.pytestEnabled": true,
+    "python.testing.unittestEnabled": false
+  }
+}
