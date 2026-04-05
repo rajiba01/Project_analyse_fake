@@ -1,0 +1,122 @@
+[
+  {
+    "path": "./media/audio/real/real_0000.wav",
+    "label": 0,
+    "label_name": "REAL",
+    "type": "audio"
+  },
+  {
+    "path": "./media/audio/real/real_0001.wav",
+    "label": 0,
+    "label_name": "REAL",
+    "type": "audio"
+  },
+  {
+    "path": "./media/audio/real/real_0002.wav",
+    "label": 0,
+    "label_name": "REAL",
+    "type": "audio"
+  },
+  {
+    "path": "./media/audio/real/real_0003.wav",
+    "label": 0,
+    "label_name": "REAL",
+    "type": "audio"
+  },
+  {
+    "path": "./media/audio/real/real_0004.wav",
+    "label": 0,
+    "label_name": "REAL",
+    "type": "audio"
+  },
+  {
+    "path": "./media/audio/real/real_0005.wav",
+    "label": 0,
+    "label_name": "REAL",
+    "type": "audio"
+  },
+  {
+    "path": "./media/audio/real/real_0006.wav",
+    "label": 0,
+    "label_name": "REAL",
+    "type": "audio"
+  },
+  {
+    "path": "./media/audio/real/real_0007.wav",
+    "label": 0,
+    "label_name": "REAL",
+    "type": "audio"
+  },
+  {
+    "path": "./media/audio/real/real_0008.wav",
+    "label": 0,
+    "label_name": "REAL",
+    "type": "audio"
+  },
+  {
+    "path": "./media/audio/real/real_0009.wav",
+    "label": 0,
+    "label_name": "REAL",
+    "type": "audio"
+  },
+  {
+    "path": "./media/audio/fake/fake_0000.wav",
+    "label": 1,
+    "label_name": "FAKE",
+    "type": "audio"
+  },
+  {
+    "path": "./media/audio/fake/fake_0001.wav",
+    "label": 1,
+    "label_name": "FAKE",
+    "type": "audio"
+  },
+  {
+    "path": "./media/audio/fake/fake_0002.wav",
+    "label": 1,
+    "label_name": "FAKE",
+    "type": "audio"
+  },
+  {
+    "path": "./media/audio/fake/fake_0003.wav",
+    "label": 1,
+    "label_name": "FAKE",
+    "type": "audio"
+  },
+  {
+    "path": "./media/audio/fake/fake_0004.wav",
+    "label": 1,
+    "label_name": "FAKE",
+    "type": "audio"
+  },
+  {
+    "path": "./media/audio/fake/fake_0005.wav",
+    "label": 1,
+    "label_name": "FAKE",
+    "type": "audio"
+  },
+  {
+    "path": "./media/audio/fake/fake_0006.wav",
+    "label": 1,
+    "label_name": "FAKE",
+    "type": "audio"
+  },
+  {
+    "path": "./media/audio/fake/fake_0007.wav",
+    "label": 1,
+    "label_name": "FAKE",
+    "type": "audio"
+  },
+  {
+    "path": "./media/audio/fake/fake_0008.wav",
+    "label": 1,
+    "label_name": "FAKE",
+    "type": "audio"
+  },
+  {
+    "path": "./media/audio/fake/fake_0009.wav",
+    "label": 1,
+    "label_name": "FAKE",
+    "type": "audio"
+  }
+]

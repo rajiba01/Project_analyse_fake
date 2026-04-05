@@ -1,0 +1,62 @@
+[
+  {
+    "path": "./media/videos/test/real_0000.mp4",
+    "label": 0,
+    "label_name": "REAL",
+    "type": "video"
+  },
+  {
+    "path": "./media/videos/test/real_0001.mp4",
+    "label": 0,
+    "label_name": "REAL",
+    "type": "video"
+  },
+  {
+    "path": "./media/videos/test/real_0002.mp4",
+    "label": 0,
+    "label_name": "REAL",
+    "type": "video"
+  },
+  {
+    "path": "./media/videos/test/real_0003.mp4",
+    "label": 0,
+    "label_name": "REAL",
+    "type": "video"
+  },
+  {
+    "path": "./media/videos/test/real_0004.mp4",
+    "label": 0,
+    "label_name": "REAL",
+    "type": "video"
+  },
+  {
+    "path": "./media/videos/test/fake_0000.mp4",
+    "label": 1,
+    "label_name": "FAKE",
+    "type": "video"
+  },
+  {
+    "path": "./media/videos/test/fake_0001.mp4",
+    "label": 1,
+    "label_name": "FAKE",
+    "type": "video"
+  },
+  {
+    "path": "./media/videos/test/fake_0002.mp4",
+    "label": 1,
+    "label_name": "FAKE",
+    "type": "video"
+  },
+  {
+    "path": "./media/videos/test/fake_0003.mp4",
+    "label": 1,
+    "label_name": "FAKE",
+    "type": "video"
+  },
+  {
+    "path": "./media/videos/test/fake_0004.mp4",
+    "label": 1,
+    "label_name": "FAKE",
+    "type": "video"
+  }
+]

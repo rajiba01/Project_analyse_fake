@@ -1,0 +1,122 @@
+[
+  {
+    "path": "./media/images/real/real_0000.jpg",
+    "label": 0,
+    "label_name": "REAL",
+    "type": "image"
+  },
+  {
+    "path": "./media/images/real/real_0001.jpg",
+    "label": 0,
+    "label_name": "REAL",
+    "type": "image"
+  },
+  {
+    "path": "./media/images/real/real_0002.jpg",
+    "label": 0,
+    "label_name": "REAL",
+    "type": "image"
+  },
+  {
+    "path": "./media/images/real/real_0003.jpg",
+    "label": 0,
+    "label_name": "REAL",
+    "type": "image"
+  },
+  {
+    "path": "./media/images/real/real_0004.jpg",
+    "label": 0,
+    "label_name": "REAL",
+    "type": "image"
+  },
+  {
+    "path": "./media/images/real/real_0005.jpg",
+    "label": 0,
+    "label_name": "REAL",
+    "type": "image"
+  },
+  {
+    "path": "./media/images/real/real_0006.jpg",
+    "label": 0,
+    "label_name": "REAL",
+    "type": "image"
+  },
+  {
+    "path": "./media/images/real/real_0007.jpg",
+    "label": 0,
+    "label_name": "REAL",
+    "type": "image"
+  },
+  {
+    "path": "./media/images/real/real_0008.jpg",
+    "label": 0,
+    "label_name": "REAL",
+    "type": "image"
+  },
+  {
+    "path": "./media/images/real/real_0009.jpg",
+    "label": 0,
+    "label_name": "REAL",
+    "type": "image"
+  },
+  {
+    "path": "./media/images/fake/fake_0000.jpg",
+    "label": 1,
+    "label_name": "FAKE",
+    "type": "image"
+  },
+  {
+    "path": "./media/images/fake/fake_0001.jpg",
+    "label": 1,
+    "label_name": "FAKE",
+    "type": "image"
+  },
+  {
+    "path": "./media/images/fake/fake_0002.jpg",
+    "label": 1,
+    "label_name": "FAKE",
+    "type": "image"
+  },
+  {
+    "path": "./media/images/fake/fake_0003.jpg",
+    "label": 1,
+    "label_name": "FAKE",
+    "type": "image"
+  },
+  {
+    "path": "./media/images/fake/fake_0004.jpg",
+    "label": 1,
+    "label_name": "FAKE",
+    "type": "image"
+  },
+  {
+    "path": "./media/images/fake/fake_0005.jpg",
+    "label": 1,
+    "label_name": "FAKE",
+    "type": "image"
+  },
+  {
+    "path": "./media/images/fake/fake_0006.jpg",
+    "label": 1,
+    "label_name": "FAKE",
+    "type": "image"
+  },
+  {
+    "path": "./media/images/fake/fake_0007.jpg",
+    "label": 1,
+    "label_name": "FAKE",
+    "type": "image"
+  },
+  {
+    "path": "./media/images/fake/fake_0008.jpg",
+    "label": 1,
+    "label_name": "FAKE",
+    "type": "image"
+  },
+  {
+    "path": "./media/images/fake/fake_0009.jpg",
+    "label": 1,
+    "label_name": "FAKE",
+    "type": "image"
+  }
+]
